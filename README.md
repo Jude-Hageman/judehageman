@@ -13,15 +13,14 @@ I love building projects that blend **software and hardware**, and I’m always 
 ---
 
 ## 🛠️ Skills
-- **Programming:** Java, Python, JavaScript, C, HTML/CSS  
-- **Tools & Frameworks:** React, Git/GitHub, Spring Boot  
+- **Programming:** Java, Python, JavaScript, C/C++, HTML/CSS, Verilog, VHDL, System Verilog
+- **Tools & Frameworks:** React, Git/GitHub, Spring Boot, Digital Circuit design  
 - **Areas of Interest:** AI, embedded systems, web applications
 
 ---
 
 ## 📂 Featured Projects
-- **[Bible Verse Search App](#)** — Java + React app using AI to interpret and retrieve relevant Bible verses.  
-- **[Java Car Inheritance Program](#)** — OOP demonstration with inheritance principles in Java.  
+- **[Bible Verse Search App](https://github.com/Jude-Hageman/Final-Project)** — Java + React app using AI to interpret and retrieve relevant Bible verses.  
 - **[Python Text Adventure Game](#)** — Interactive terminal-based game built in Python.
 
 *(Replace `#` with actual repo links)*
@@ -29,8 +28,8 @@ I love building projects that blend **software and hardware**, and I’m always 
 ---
 
 ## 📫 Connect with Me
-- **Portfolio Website:** [judehageman.com](#)  
-- **LinkedIn:** [linkedin.com/in/judehageman](#)  
+- **Portfolio Website:** [judehageman.com](https://jude-hageman.github.io/personal-website/)  
+- **LinkedIn:** [linkedin.com/in/judehageman](https://www.linkedin.com/in/jude-hageman-211345367/)  
 - **Email:** [judehageman@gmail.com](mailto:judehageman@gmail.com)
 
 ---
