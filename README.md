@@ -1,6 +1,6 @@
 # Hi, I'm Jude 👋
 
-🎓 **Electrical & Computer Engineering Student** | Minor in Computer Science  
+🎓 **Electrical & Computer Engineering Student**  
 💡 Passionate about **AI**, embedded systems, and creative problem-solving  
 📍 Based in Pennsylvania, USA
 
